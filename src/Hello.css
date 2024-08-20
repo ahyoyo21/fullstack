@@ -1,0 +1,17 @@
+.mySelect {
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+    margin: 25px;
+    font-size: 35px;
+    border-radius: 25px;
+}
+.showColor {
+    background-color: blue;
+    color: whitesmoke;
+    font-size: 35px;
+    padding: 20px;
+    margin: 25px;
+    border-radius: 25px;
+    width: 50%;
+}
